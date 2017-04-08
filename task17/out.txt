@@ -1,0 +1,4 @@
+About to draw the image
+Loading image from kybik.png
+Drawing image
+Done drawing the image

@@ -1,0 +1,3 @@
+About to draw the image
+Drawing image
+Done drawing the image
